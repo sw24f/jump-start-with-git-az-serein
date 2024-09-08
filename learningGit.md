@@ -1,5 +1,6 @@
 # Learning Git
 
+
 ## Personal Notes 
 
 Here's a brief summary of my personal notes about learning Git:
@@ -17,6 +18,11 @@ Here's a brief summary of my personal notes about learning Git:
 
 ### Git Status
 - Use `git status` to check if there are commits that are needed to be pushed.
+
+
+## Other Git Commands
+- Will be added here once I learn more `git command`.
+
 
 
 
