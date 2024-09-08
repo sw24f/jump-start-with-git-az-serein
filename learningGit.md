@@ -19,9 +19,14 @@ Here's a brief summary of my personal notes about learning Git:
 ### Git Status
 - Use `git status` to check if there are commits that are needed to be pushed.
 
+### Git Branch
+- Use `git branch` to create a new branch.
+
 
 ## Other Git Commands
 - Will be added here once I learn more `git command`.
+
+
 
 
 
