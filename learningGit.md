@@ -16,4 +16,4 @@ Here's a brief summary of my personal notes about learning Git:
 - Use `git push` to push the commits to Github.
 
 ### Git Status
-
+- Use `git status` to check if there are commits that are needed to be pushed.
