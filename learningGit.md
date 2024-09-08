@@ -15,3 +15,5 @@ Here's a brief summary of my personal notes about learning Git:
 ### Git Push
 - Use `git push` to push the commits to Github.
 
+### Git Status
+
