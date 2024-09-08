@@ -12,4 +12,6 @@ Here's a brief summary of my personal notes about learning Git:
 ### Git Commit
 - Use `git commit -m ""` to record the changes while editing the file.
 
+### Git Push
+- Use `git push` to push the commits to Github.
 
