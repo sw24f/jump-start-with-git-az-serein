@@ -2,10 +2,14 @@
 
 ## Personal Notes 
 
-These are my personal notes about learning Git:
-
+Here's a brief summary of my personal notes about learning Git:
 - **Git Commands**: I learned some `git command` to use git in the Terminal.
-- **Exercise**: I need to do at least 10 `git commit` to record my changes.
+- **Exercise Goal**: I need to do at least 10 `git commit` to record my changes.
 
 ### Git Add
+- Use `git add` to add the file before `git commit`.
+
+#
+
+
 
