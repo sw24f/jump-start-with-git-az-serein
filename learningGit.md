@@ -9,7 +9,7 @@ Here's a brief summary of my personal notes about learning Git:
 ### Git Add
 - Use `git add` to add the file before `git commit`.
 
-#
-
+### Git Commit
+- Use `git commit -m ""` to record the changes while editing the file.
 
 
